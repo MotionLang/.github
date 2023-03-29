@@ -1,3 +1,3 @@
 # Motion
 
-This is the official Motion Programming Language organization.
+The official Motion programming language.
